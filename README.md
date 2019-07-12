@@ -1,2 +1,2 @@
 # Halaman Blogku
-Lihat [Disini](herdiiyan.github.io).
+Lihat [Disini](http://herdiiyan.github.io/).
